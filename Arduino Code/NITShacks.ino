@@ -132,7 +132,7 @@ else if (m.text.equals("off"))
 }   
 */  
 
-  //>>>>>>>>>>>>>>>>>>>>BOLT iot...
+  //>>>>>>>>>>>>>>>>>>>>BOLT iot... Alternative for nodeMCU (esp-12E)
  /* if (mySerial.available() > 0) 
   {
     delay(50);
